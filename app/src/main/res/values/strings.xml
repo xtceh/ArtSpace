@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+    <string name="mona_lisa">Mona Lisa Image</string>
+    <string name="mona_lisa_title">Mona Lisa</string>
+    <string name="mona_lisa_artist">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">1506</string>
 </resources>
