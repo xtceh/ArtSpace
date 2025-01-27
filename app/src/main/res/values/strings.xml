@@ -4,4 +4,10 @@
     <string name="mona_lisa_title">Mona Lisa</string>
     <string name="mona_lisa_artist">Leonardo da Vinci</string>
     <string name="mona_lisa_year">1506</string>
+    <string name="laughing_cavalier">Laughing Cavalier Image</string>
+    <string name="laughing_cavalier_title">Laughing Cavalier</string>
+    <string name="laughing_cavalier_artist">Frans Hals</string>
+    <string name="laughing_cavalier_year">1506</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
 </resources>
